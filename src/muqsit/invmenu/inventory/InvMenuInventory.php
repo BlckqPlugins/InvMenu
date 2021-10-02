@@ -24,8 +24,6 @@ namespace muqsit\invmenu\inventory;
 use pocketmine\block\inventory\BlockInventory;
 use pocketmine\inventory\SimpleInventory;
 use pocketmine\world\Position;
-use pocketmine\world\World;
-
 
 class InvMenuInventory extends SimpleInventory implements BlockInventory
 {
